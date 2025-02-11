@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Someone who doesn't like coding that much, but still wanna learn
+Someone who doesn't like coding that much, but still want to learn
 
 
 ## 🛠 Skills
