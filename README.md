@@ -10,6 +10,5 @@ Someone who doesn't like coding that much, but still want to learn
 Python, SQL, C, C++,... any kind of programing language that i learn in my university :)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/My-social_media-red)](https://katherineoelsner.com/)
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ducdz2903)
 
